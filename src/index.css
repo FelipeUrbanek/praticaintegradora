@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#root > div > div.MuiBox-root.css-i9gxme > header {
+  background-color: #00e88f !important;
+}
+#root > div > div.MuiBox-root.css-i9gxme > header > div > div > p {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+html {
+  background-color: #121212;
+}
+
+#root
+  > div
+  > div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.css-bhp9pd-MuiPaper-root-MuiCard-root {
+  background-color: #121212;
+}
+
+table {
+  background-color: #121212;
+}
+
+table > tbody > tr > th {
+  font-size: 2rem;
+  color: white !important;
+}
+
+table > tbody > tr > td {
+  font-size: 1rem;
+  color: white !important;
+}
+
+table > thead > tr > th {
+  font-size: 1rem;
+  color: white !important;
+}
+table > thead > tr > {
+  font-size: 1rem;
+  color: white !important;
+}
+
+#root
+  > div
+  > div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.css-bhp9pd-MuiPaper-root-MuiCard-root
+  > div.MuiCardActions-root.MuiCardActions-spacing.css-1t6e9jv-MuiCardActions-root
+  > button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeSmall.MuiButton-containedSizeSmall.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeSmall.MuiButton-containedSizeSmall.css-11qr2p8-MuiButtonBase-root-MuiButton-root {
+  background-color: #00e88f !important;
+}
+
+#root
+  > div
+  > div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.css-bhp9pd-MuiPaper-root-MuiCard-root
+  > div.MuiCardActions-root.MuiCardActions-spacing.css-1t6e9jv-MuiCardActions-root
+  > button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeSmall.MuiButton-outlinedSizeSmall.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeSmall.MuiButton-outlinedSizeSmall.css-1k23hlb-MuiButtonBase-root-MuiButton-root {
+  color: #00e88f !important;
+  border-color: #00e88f !important;
+}
